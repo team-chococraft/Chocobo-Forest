@@ -1,0 +1,19 @@
+modLoader="javafml"
+loaderVersion="[28,)"
+issueTrackerURL="https://github.com/team-chococraft/Chocobo-Forest/issues"
+[[mods]] #mandatory
+modId="chocoboforest"
+version="${file.jarVersion}" 
+displayName="Chocobo Forest"
+# updateJSONURL="http://myurl.me/" #optional
+displayURL="https://github.com/team-chococraft/Chocobo-Forest/" #optional
+# A file name (in the root of the mod JAR) containing a logo for display
+# logoFile="examplemod.png" #optional
+# A text field displayed in the mod UI
+credits="Kweh!?" #optional
+# A text field displayed in the mod UI
+authors="Team Chococraft" #optional
+# The description text for the mod (multi line!) (#mandatory)
+description='''
+Chocobos, in Minecraft?
+'''
